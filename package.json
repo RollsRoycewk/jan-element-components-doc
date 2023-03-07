@@ -13,5 +13,10 @@
   "license": "ISC",
   "devDependencies": {
     "vitepress": "^1.0.0-alpha.49"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "element-plus": "^2.2.34",
+    "jan-element-components": "^1.0.1"
   }
 }
