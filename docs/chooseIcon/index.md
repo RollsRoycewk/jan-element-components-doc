@@ -5,6 +5,7 @@
 ## 按需引入
 
 ```js
+// main.ts
 import chooseIcon from "jan-element-components/chooseIcon";
 import "jan-element-components/chooseIcon/style.css";
 
