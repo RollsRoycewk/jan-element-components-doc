@@ -1,29 +1,29 @@
 {
-  "hash": "c00aa737",
-  "browserHash": "1fa6e803",
+  "hash": "7232aad0",
+  "browserHash": "619d5862",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "58dc3a04",
+      "fileHash": "dfb5b77b",
       "needsInterop": false
     },
     "element-plus": {
       "src": "../../../../node_modules/element-plus/es/index.mjs",
       "file": "element-plus.js",
-      "fileHash": "6246430e",
-      "needsInterop": false
-    },
-    "jan-element-components": {
-      "src": "../../../../node_modules/jan-element-components/index.js",
-      "file": "jan-element-components.js",
-      "fileHash": "22742334",
+      "fileHash": "0ec7e0da",
       "needsInterop": false
     },
     "@element-plus/icons-vue": {
       "src": "../../../../node_modules/@element-plus/icons-vue/dist/index.js",
       "file": "@element-plus_icons-vue.js",
-      "fileHash": "cb687352",
+      "fileHash": "77167722",
+      "needsInterop": false
+    },
+    "jan-element-components": {
+      "src": "../../../../node_modules/jan-element-components/index.js",
+      "file": "jan-element-components.js",
+      "fileHash": "1def7cb7",
       "needsInterop": false
     }
   },
