@@ -49,6 +49,10 @@ export default defineConfig({
         link: "/chooseDate/",
       },
       {
+        text: "列表",
+        link: "/list/",
+      },
+      {
         text: "通知菜单",
         link: "/notification/",
       },
