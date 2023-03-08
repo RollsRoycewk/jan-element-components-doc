@@ -6,6 +6,7 @@
 
 ```js
 import notifiction from "jan-element-components/notifiction";
+import "jan-element-components/notifiction/style.css";
 
 app.use(notifiction);
 ```

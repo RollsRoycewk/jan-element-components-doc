@@ -6,7 +6,7 @@
 
 ```js
 import list from "jan-element-components/list";
-
+import "jan-element-components/list/style.css";
 app.use(list);
 ```
 

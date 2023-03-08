@@ -4,6 +4,7 @@
 
 ```js
 import chooseCity from "jan-element-components/chooseCity";
+import "jan-element-components/chooseCity/style.css";
 
 app.use(chooseCity);
 ```
